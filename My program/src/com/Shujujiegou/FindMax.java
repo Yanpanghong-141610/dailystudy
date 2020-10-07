@@ -37,8 +37,8 @@ public class FindMax {
     }
 
     public static void main(String[] args) {
-        int[] data = {1, 2, 5, 6, 8, 4, 8, 2, 8, 5, 5, 8};
-        LinkList temp = new LinkList();
+        int[] data = {1, 2, 5, 6, 8, 4, 8, 2, 8, 5, 5, 8}; LinkList temp = new LinkList();
+
         temp.CreateListR(data);
         int count = Maxcount(temp);
         System.out.println(count);
