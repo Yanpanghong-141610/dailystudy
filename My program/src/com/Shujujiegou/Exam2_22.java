@@ -11,7 +11,6 @@ import java.io.FileNotFoundException;
 import java.util.*;
 
 public class Exam2_22 {
-
         static class Child {
             int no;
             Child next;
