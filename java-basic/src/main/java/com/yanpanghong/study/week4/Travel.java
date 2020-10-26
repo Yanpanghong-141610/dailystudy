@@ -7,4 +7,9 @@ package com.yanpanghong.study.week4;
  * @Date 2020/10/26
  **/
 public interface Travel {
+    /**
+     * 去旅游
+     * @param destination
+     */
+    void go(String destination);
 }
