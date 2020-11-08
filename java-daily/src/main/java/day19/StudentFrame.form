@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="day19">
+  <grid id="27dc6" binding="mainPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="593" height="460"/>
+    </constraints>
+    <properties>
+      <background color="-13363647"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="39974" binding="LeftPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="West"/>
+        <properties>
+          <background color="-4245969"/>
+          <preferredSize width="100" height="0"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="6009" class="javax.swing.JButton" binding="检查Button" default-binding="true">
+            <constraints border-constraint="South"/>
+            <properties>
+              <text value="检查"/>
+            </properties>
+          </component>
+          <component id="d70b8" class="javax.swing.JButton" binding="检查Button1" default-binding="true">
+            <constraints border-constraint="North"/>
+            <properties>
+              <text value="检查"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="388d2" binding="topPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="North"/>
+        <properties>
+          <background color="-4253343"/>
+          <preferredSize width="0" height="20"/>
+        </properties>
+        <border type="none"/>
+        <children/>
+      </grid>
+      <grid id="c021d" binding="centerPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <background color="-7304513"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="f1a2" class="javax.swing.JLabel">
+            <constraints border-constraint="West"/>
+            <properties>
+              <background color="-16055013"/>
+              <font size="16" style="1"/>
+              <preferredSize width="90" height="50"/>
+              <text value="图书上架："/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
