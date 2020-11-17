@@ -1,7 +1,11 @@
 package com.yph.sm.frame;
 
+import com.yph.sm.entity.Department;
+import com.yph.sm.factory.ServiceFactory;
+
 import javax.swing.*;
 import java.awt.*;
+import java.util.List;
 
 /**
  * @ClassName MainFrame
@@ -45,6 +49,7 @@ public class MainFrame extends JFrame {
         奖惩管理Button.addActionListener(e ->{
             c.show(centerPanel,"4");
         });
+        showDepartments();
     }
 
     private void init() {
@@ -52,6 +57,24 @@ public class MainFrame extends JFrame {
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setExtendedState(JFrame.MAXIMIZED_BOTH);
         this.setVisible(true);
+    }
+
+    private void showDepartments(){
+        departmentPanel.removeAll();
+        List<Department> departmentList = ServiceFactory.getDepartmentServiceInstance().selectAll();
+        int len = departmentList.size();
+        int row = len % 4 ==0 ? len / 4 : len / 4 + 1;
+        GridLayout gridLayout = new GridLayout(row,4,15,15);
+        departmentPanel.setLayout(gridLayout);
+        for (Department department : departmentList){
+            JPanel depPanel = new JPanel();
+            depPanel.setPreferredSize(new Dimension(200,200));
+            depPanel.setBorder(BorderFactory.createTitledBorder(department.getDepartmentName()));
+            JLabel logoLabel = new JLabel("<html><img src='"+department.getLogo()+"'width=400 height=400/></html>");
+            depPanel.add(logoLabel);
+            departmentPanel.add(depPanel);
+            departmentPanel.revalidate();
+        }
     }
 
     public static void main(String[] args) {

@@ -1,5 +1,6 @@
-package com.yph.sm.dao;
+package com.yph.sm.dao.impl;
 
+import com.yph.sm.dao.AdminDao;
 import com.yph.sm.entity.Admin;
 import com.yph.sm.utils.JdbcUtil;
 
@@ -15,7 +16,7 @@ import java.sql.SQLException;
  * @Date 2020/11/14
  **/
 
-public class AdminDaoImpl implements AdminDao{
+public class AdminDaoImpl implements AdminDao {
     @Override
     public Admin findAdminByAccount(String account) throws SQLException{
         JdbcUtil jdbcUtil = JdbcUtil.getInitJdbcUtil();

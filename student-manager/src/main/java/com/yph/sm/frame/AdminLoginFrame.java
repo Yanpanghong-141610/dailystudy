@@ -16,12 +16,12 @@ import java.awt.*;
 
 public class AdminLoginFrame  extends JFrame{
     private JPanel mainPanel;
-    private JFormattedTextField 账号;
     private JTextField accountField;
-    private JFormattedTextField 密码FormattedTextField;
     private JButton loginBtn;
     private JButton resetBtn;
     private JPasswordField passwordField;
+    private JLabel 账号;
+    private JLabel 密码;
 
     public AdminLoginFrame(){
         this.setTitle("AdminLoginFrame");
