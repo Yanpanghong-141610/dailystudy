@@ -85,4 +85,17 @@ public class JdbcUtil {
             System.out.println("连接成功");
         }
     }
+
+    /**
+     * 关闭连接
+     */
+    public void closeConnection() {
+        if (connection != null) {
+            try {
+                connection.close();
+            }catch (SQLException e) {
+                System.out.println(e.getMessage());
+            }
+        }
+    }
 }

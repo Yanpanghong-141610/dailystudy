@@ -40,4 +40,32 @@ public class DepartmentDaoImpl implements DepartmentDao {
         jdbcUtil.closeConnect();
         return departmentList;
     }
+
+    @Override
+    public int insertDepartment(Department department) throws SQLException {
+        JdbcUtil jdbcUtil = JdbcUtil.getInitJdbcUtil();
+        Connection connection = jdbcUtil.getConnection();
+        String sql = "INSERT INTO t_department(department_name,logo) VALUES(?,?)";
+        PreparedStatement pstmt = connection.prepareStatement(sql);
+        pstmt.setString(1,department.getDepartmentName());
+        pstmt.setString(2,department.getLogo());
+        int n = pstmt.executeUpdate();
+        pstmt.close();
+        connection.close();
+        return n;
+    }
+
+
+    @Override
+    public int deleteDepartment(Department department, int id) throws SQLException {
+        JdbcUtil jdbcUtil = JdbcUtil.getInitJdbcUtil();
+        Connection connection = jdbcUtil.getConnection();
+        String sql = "DELETE FROM t_department WHERE id = " + id;
+        PreparedStatement pstmt = connection.prepareStatement(sql);
+        // pstmt.setString(1, String.valueOf(departmentId));s
+        int n = pstmt.executeUpdate();
+        pstmt.close();
+        connection.close();
+        return n;
+    }
 }
