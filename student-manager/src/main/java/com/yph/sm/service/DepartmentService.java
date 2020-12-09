@@ -28,8 +28,7 @@ public interface DepartmentService {
      * @param  department入参
      * @return int
      */
-     int addDepartment(Department department);
+    int addDepartment(Department department);
 
-     int delDepartment(Department department,Integer id);
-
+    int delDepartment(Department department,Integer id);
 }

@@ -1,5 +1,8 @@
 package com.yph.sm.entity;
 
+import jdk.nashorn.internal.objects.annotations.Setter;
+import lombok.*;
+
 import java.util.Date;
 
 /**
@@ -8,7 +11,11 @@ import java.util.Date;
  * @Author YPH
  * @Date 2020/11/24
  **/
-
+@Getter
+@NoArgsConstructor
+@AllArgsConstructor
+@Data
+@Builder
 public class Student {
     private String id;
     private Integer classId;
@@ -17,4 +24,6 @@ public class Student {
     private Short gender;
     private Date birthday;
     private String avatar;
+    private String address;
+
 }

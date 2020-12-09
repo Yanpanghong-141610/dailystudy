@@ -1,9 +1,6 @@
 package com.yph.sm.entity;
 
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 /**
  * @ClassName Department
@@ -16,7 +13,11 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
+@Getter
+@Setter
+
 public class Department {
+
     private Integer id;
     private String departmentName;
     private String logo;
@@ -25,4 +26,5 @@ public class Department {
     public String toString() {
         return this.departmentName;
     }
+
 }

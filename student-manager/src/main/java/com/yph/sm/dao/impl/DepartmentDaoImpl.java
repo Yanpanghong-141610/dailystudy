@@ -62,10 +62,19 @@ public class DepartmentDaoImpl implements DepartmentDao {
         Connection connection = jdbcUtil.getConnection();
         String sql = "DELETE FROM t_department WHERE id = " + id;
         PreparedStatement pstmt = connection.prepareStatement(sql);
-        // pstmt.setString(1, String.valueOf(departmentId));s
+//        pstmt.setString(1, String.valueOf(departmentId));
         int n = pstmt.executeUpdate();
         pstmt.close();
         connection.close();
         return n;
+    }
+    @Override
+    public int delete(int depId) throws SQLException{
+        JdbcUtil jdbcUtil = JdbcUtil.getInitJdbcUtil();
+        Connection connection = jdbcUtil.getConnection();
+        String sql = "DELETE FROM t_department WHERE id = ?";
+        PreparedStatement pstmt = connection.prepareStatement(sql);
+        pstmt.setInt(1,depId);
+        return pstmt.executeUpdate();
     }
 }

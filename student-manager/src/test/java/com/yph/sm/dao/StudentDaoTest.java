@@ -25,13 +25,13 @@ public class StudentDaoTest {
 
     @Test
     public void selectByClassId() throws SQLException{
-        List<StudentVo> list = DaoFactory.getStudentDaoInstance().selectByDepId(18);
+        List<StudentVo> list = DaoFactory.getStudentDaoInstance().selectByClassId(13);
         list.forEach(System.out::println);
     }
 
     @Test
     public void selectByKeywords() throws SQLException{
-        List<StudentVo> list = DaoFactory.getStudentDaoInstance().selectByKeywords("田");
+        List<StudentVo> list = DaoFactory.getStudentDaoInstance().selectBykeywords("田");
         list.forEach(System.out::println);
     }
 }

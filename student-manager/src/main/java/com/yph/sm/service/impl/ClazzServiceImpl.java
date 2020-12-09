@@ -16,18 +16,30 @@ import java.util.List;
  **/
 
 public class ClazzServiceImpl implements ClazzService {
-    private static final ClazzDao clazzDao = DaoFactory.getClazzDaoInstance();
+    //private static final ClazzDao clazzDao = DaoFactory.getClazzDaoInstance();
 
     @Override
-    public List<Clazz> getClazzByDepId(int department) {
-        List<Clazz> clazzList = null;
+    public List<Clazz> getClazzByDepId(int depId) {
+        List<Clazz> list = null;
         try {
-            clazzList = clazzDao.selectByDepartmentId(department);
-        } catch (SQLException throwables) {
-            throwables.printStackTrace();
+            list = DaoFactory.getClazzDaoInstance().selectByDepartmentId(depId);
+        } catch (SQLException e) {
+            System.err.println("根据院系id查询班级列表出现异常");
         }
-        return clazzList;
+        return list;
     }
+
+    @Override
+    public List<Clazz> selectAll() {
+        List<Clazz> list = null;
+        try {
+            list = DaoFactory.getClazzDaoInstance().selectAll();
+        } catch (SQLException e) {
+            System.err.println("查询所有班级列表出现异常");
+        }
+        return list;
+    }
+
   @Override
     public  int addClazz(Clazz clazz){
         int n=0;
@@ -38,25 +50,15 @@ public class ClazzServiceImpl implements ClazzService {
         }
         return n;
   }
-  @Override
-    public int deleteClazz(Integer id){
-        int n=0;
-        try{
-            n = clazzDao.deleteClazz(id);
-        }catch(SQLException e){
-            System.err.print("删除班级信息出现异常");
+    @Override
+    public int deleteClazz(int clazzId) {
+        int n = 0;
+        try {
+            n = DaoFactory.getClazzDaoInstance().deleteClazz(clazzId);
+        } catch (SQLException throwables) {
+            System.err.println("删除班级出现异常");
         }
         return n;
-  }
+    }
 
-  @Override
-    public List<Clazz> selectAll(){
-        List<Clazz> clazzList = null;
-        try{
-            clazzList = clazzDao.selectAll();
-        }catch (SQLException e){
-            System.err.print("查询班级信息出现异常");
-        }
-        return clazzList;
-  }
 }

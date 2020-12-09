@@ -7,9 +7,10 @@ package com.yanpanghong.study.week4;
  * @Date 2020/10/26
  **/
 public interface Fly {
+     int MAX_SPEED = 100;
     /**
      * 飞行时速
-     *
+     * @return int
      * */
-    public abstract int speed();
+    int speed();
 }

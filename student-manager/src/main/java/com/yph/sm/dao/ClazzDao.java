@@ -21,6 +21,7 @@ public interface ClazzDao {
      */
     List<Clazz> selectByDepartmentId(int departmentId) throws SQLException;
 
+
     /**
      * 新增班级
      * @param clazz 入参班级实体
@@ -37,6 +38,7 @@ public interface ClazzDao {
     int deleteClazz(Integer id) throws SQLException;
 
     /**
+     * 查询所有班级
      *
      * @return List<Clazz>
      * @throws SQLException

@@ -13,10 +13,10 @@ import java.util.List;
 public interface ClazzService {
     /**
      *
-     * @param department 班级
-     * @return int
+     * @param depId 院系Id
+     * @return 班级列表
      */
-    List<Clazz> getClazzByDepId(int department);
+    List<Clazz> getClazzByDepId(int depId);
 
     /**
      * 新增班级
@@ -26,9 +26,16 @@ public interface ClazzService {
      */
     int addClazz(Clazz clazz);
 
-    int deleteClazz(Integer id);
+    /**
+     *
+     * @param clazzId 班级Id
+     * @return int
+     */
+    int deleteClazz(int clazzId);
 
+    /**
+     * 查询所有班级
+     * @return List<Clazz>
+     */
     List<Clazz> selectAll();
-
-
 }

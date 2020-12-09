@@ -1,0 +1,16 @@
+#include <stdio.h>
+  int main(){
+    int i;
+  for(i=1;i<=7;i++){
+    switch(i)
+    {
+       case1:printf("今天是星期一");break;
+       case2:printf("今天是星期二");break;
+       case3:printf("今天是星期三");break;
+       case4:printf("今天是星期四");break;
+       case5:printf("今天是星期五");break;
+       case6:printf("今天是星期六");break;
+       case7:printf("今天是星期日");break;
+    }
+  }
+}

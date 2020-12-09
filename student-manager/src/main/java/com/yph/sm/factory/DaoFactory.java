@@ -1,13 +1,7 @@
 package com.yph.sm.factory;
 
-import com.yph.sm.dao.AdminDao;
-import com.yph.sm.dao.ClazzDao;
-import com.yph.sm.dao.DepartmentDao;
-import com.yph.sm.dao.StudentDao;
-import com.yph.sm.dao.impl.AdminDaoImpl;
-import com.yph.sm.dao.impl.ClazzDaoImpl;
-import com.yph.sm.dao.impl.DepartmentDaoImpl;
-import com.yph.sm.dao.impl.StudentDaoImpl;
+import com.yph.sm.dao.*;
+import com.yph.sm.dao.impl.*;
 import com.yph.sm.entity.Department;
 
 /**
@@ -46,7 +40,19 @@ public class DaoFactory {
         return new ClazzDaoImpl();
     }
 
+    /**
+     * 获得StudentDao实例
+     * @return StudentDao实例
+     */
     public static StudentDao getStudentDaoInstance(){return new StudentDaoImpl();
+    }
+
+    /**
+     * 获得RewardDao实例
+     * @return RewardDao
+     */
+    public static RewardDao getRewardDaoInstance(){
+        return new RewardDaoImpl();
     }
 }
 

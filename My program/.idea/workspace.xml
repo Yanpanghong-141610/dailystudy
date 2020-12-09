@@ -1,7 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56df56fa-5a5d-4d30-9cdd-157e9e0e888a" name="Default Changelist" comment="" />
+    <list default="true" id="56df56fa-5a5d-4d30-9cdd-157e9e0e888a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/11student-manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_4_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_kms_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ram_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__commons_codec_commons_codec_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__io_opentracing_opentracing_api_0_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__io_opentracing_opentracing_noop_0_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__io_opentracing_opentracing_util_0_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__org_ini4j_ini4j_0_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__org_jacoco_org_jacoco_agent_runtime_0_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__org_jdom_jdom2_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__org_projectlombok_lombok_1_18_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11student-manager/student-manager/student-manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week14/WorkSell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week14/WorkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week9/DownloadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week9/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week9/TxtFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-daily/src/main/java/.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-daily/src/main/java/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/component/ImgFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/component/ImgPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/frame/AddStudentFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/frame/AddStudentFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/task/TimeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/utils/FormatUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/java-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/java-basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/frame/LoginFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/frame/LoginFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/frame/LoginFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/frame/LoginFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week2/BookDemo_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week2/BookDemo_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week2/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week2/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week2/PhoneDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week2/PhoneDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week2/StudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week2/StudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week2/TestGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week2/TestGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week4/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week4/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week4/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week4/Fly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week4/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week4/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/BookNameException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/BookNameException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/ExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/ExceptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/ExceptionTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/ExceptionTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/ISBNException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/ISBNException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/PriceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/PriceException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/README" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/TestTooWeightException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/TestTooWeightException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/TooWeightException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week5/TooWeightException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week7/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week7/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week7/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week7/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week7/README" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week7/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week7/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week7/SetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week7/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/main/java/com/yanpanghong/study/week7/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/test/java/com/yanpanghong/study/week4/BaseEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/test/java/com/yanpanghong/study/week4/BaseEmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/test/java/com/yanpanghong/study/week4/MarkEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/test/java/com/yanpanghong/study/week4/MarkEmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic/src/test/java/com/yanpanghong/study/week4/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/src/test/java/com/yanpanghong/study/week4/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__antlr_antlr_2_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__commons_logging_commons_logging_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__commons_validator_commons_validator_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__dom4j_dom4j_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__io_mateu_lombok_1_18_11_97.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__io_mateu_prelombok_1_18_11_96.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__javax_servlet_servlet_api_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__org_apache_struts_struts_core_1_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__org_apache_struts_struts_taglib_1_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__org_apache_struts_struts_tiles_1_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__org_apache_velocity_velocity_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__oro_oro_2_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/libraries/Maven__sslext_sslext_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-daily/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/java-daily.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-daily/java-daily.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/out/production/java-daily/day1/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/out/production/java-daily/day1/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-daily/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/src/main/java/com/company/frome/Studentframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-daily/src/main/java/com/company/frome/Studentframe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/src/main/java/day21/LoginFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-daily/src/main/java/day21/LoginFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/dao/ClazzDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/dao/ClazzDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/dao/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/dao/DepartmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/dao/StudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/dao/impl/ClazzDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/dao/impl/ClazzDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/dao/impl/DepartmentDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/dao/impl/DepartmentDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/dao/impl/StudentDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/dao/impl/StudentDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/entity/Clazz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/entity/Clazz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/entity/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/entity/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/factory/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/factory/DaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/factory/ServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/factory/ServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/frame/AdminLoginFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/frame/AdminLoginFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/frame/MainFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/frame/MainFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/frame/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/frame/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/service/ClazzService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/service/ClazzService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/service/DepartmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/service/DepartmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/service/impl/ClazzServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/service/impl/ClazzServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/service/impl/DepartmentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/service/impl/DepartmentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/service/impl/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/main/java/com/yph/sm/service/impl/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/test/java/com/yph/sm/dao/ClazzDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/test/java/com/yph/sm/dao/ClazzDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/src/test/java/com/yph/sm/dao/StudentDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/src/test/java/com/yph/sm/dao/StudentDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/dao/DepartmentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/dao/DepartmentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/dao/StudentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/dao/StudentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/dao/impl/ClazzDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/dao/impl/ClazzDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/dao/impl/DepartmentDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/dao/impl/DepartmentDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/dao/impl/StudentDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/dao/impl/StudentDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/entity/Clazz.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/entity/Clazz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/entity/Department$DepartmentBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/entity/Department$DepartmentBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/entity/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/entity/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/entity/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/entity/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/factory/DaoFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/factory/DaoFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/frame/AdminLoginFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/frame/AdminLoginFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/frame/MainFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/frame/MainFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/frame/MainFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/frame/MainFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/frame/MainFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/frame/MainFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/frame/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/frame/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/service/ClazzService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/service/ClazzService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/service/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/service/StudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/service/impl/ClazzServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/service/impl/ClazzServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/service/impl/StudentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/classes/com/yph/sm/service/impl/StudentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/test-classes/com/yph/sm/dao/ClazzDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/test-classes/com/yph/sm/dao/ClazzDaoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager/target/test-classes/com/yph/sm/dao/StudentDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-manager/target/test-classes/com/yph/sm/dao/StudentDaoTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +163,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -21,39 +175,94 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../student-manager" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.forDemo">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\java\My program\src\com\Shujujiegou" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.demo3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java\My program\src\com\Shujujiegou" />
+      <recent name="E:\java\My program\src\W" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PaiXU">
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Shujujiegou.BinaryTree" />
       <module name="My program" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Shujujiegou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="forDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.basicstudy.forDemo" />
+    <configuration name="HuffmanTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Shujujiegou.xianxingbiao.Huffman.HuffmanTree" />
       <module name="My program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.basicstudy.*" />
+          <option name="PATTERN" value="com.Shujujiegou.xianxingbiao.Huffman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaiXU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Shujujiegou.xianxingbiao.PaiXU" />
+      <module name="My program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Shujujiegou.xianxingbiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Shujujiegou.TestArrayList" />
+      <module name="My program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Shujujiegou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Shujujiegou.TestBTree" />
+      <module name="My program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Shujujiegou.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,10 +272,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.forDemo" />
+        <item itemvalue="Application.PaiXU" />
+        <item itemvalue="Application.TestArrayList" />
+        <item itemvalue="Application.HuffmanTree" />
+        <item itemvalue="Application.BinaryTree" />
+        <item itemvalue="Application.TestBTree" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -80,28 +294,153 @@
       <workItem from="1600936778168" duration="649000" />
       <workItem from="1601026500233" duration="1041000" />
       <workItem from="1601118440017" duration="746000" />
+      <workItem from="1601120857886" duration="3390000" />
+      <workItem from="1601183067562" duration="2928000" />
+      <workItem from="1601264850743" duration="2886000" />
+      <workItem from="1601267900738" duration="52000" />
+      <workItem from="1601337706463" duration="7516000" />
+      <workItem from="1601352735998" duration="1387000" />
+      <workItem from="1601355017583" duration="4143000" />
+      <workItem from="1601368332854" duration="1234000" />
+      <workItem from="1601472101797" duration="2656000" />
+      <workItem from="1601523141120" duration="4501000" />
+      <workItem from="1601536084982" duration="2167000" />
+      <workItem from="1601539153056" duration="575000" />
+      <workItem from="1601552822722" duration="4067000" />
+      <workItem from="1601562010270" duration="2015000" />
+      <workItem from="1601694366419" duration="1833000" />
+      <workItem from="1601725552437" duration="6536000" />
+      <workItem from="1601732173868" duration="60000" />
+      <workItem from="1601732263118" duration="4111000" />
+      <workItem from="1601809777539" duration="8899000" />
+      <workItem from="1601875708139" duration="3214000" />
+      <workItem from="1602048279677" duration="9991000" />
+      <workItem from="1602070573669" duration="268000" />
+      <workItem from="1602147473429" duration="6311000" />
+      <workItem from="1602249056323" duration="852000" />
+      <workItem from="1602332567546" duration="2760000" />
+      <workItem from="1602392395795" duration="471000" />
+      <workItem from="1602404703677" duration="873000" />
+      <workItem from="1602406030610" duration="4716000" />
+      <workItem from="1602413631107" duration="677000" />
+      <workItem from="1602479869176" duration="700000" />
+      <workItem from="1602556155994" duration="1493000" />
+      <workItem from="1602681067795" duration="6372000" />
+      <workItem from="1602759694955" duration="477000" />
+      <workItem from="1602773009228" duration="1016000" />
+      <workItem from="1602847033878" duration="5028000" />
+      <workItem from="1602943320692" duration="682000" />
+      <workItem from="1603005721836" duration="1099000" />
+      <workItem from="1603075233914" duration="933000" />
+      <workItem from="1603153748926" duration="3468000" />
+      <workItem from="1603760882917" duration="49000" />
+      <workItem from="1603761910883" duration="10000" />
+      <workItem from="1603761995034" duration="70000" />
+      <workItem from="1603762097846" duration="784000" />
+      <workItem from="1603767555887" duration="864000" />
+      <workItem from="1604361538234" duration="2043000" />
+      <workItem from="1604899455545" duration="578000" />
+      <workItem from="1604967739686" duration="4553000" />
+      <workItem from="1605103577724" duration="2039000" />
+      <workItem from="1605264988400" duration="5000" />
+      <workItem from="1605571042156" duration="5215000" />
+      <workItem from="1605582360748" duration="786000" />
+      <workItem from="1606383310990" duration="45000" />
+      <workItem from="1607385891691" duration="6950000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="155" key="GridCell.Tab.0.bottom" timestamp="1601119191176">
+    <state x="422" y="154" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602773273393">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="155" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601119191176" />
-    <state width="1237" height="155" key="GridCell.Tab.0.center" timestamp="1601119191176">
+    <state x="422" y="154" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1602773273393" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1602054466029">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="155" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601119191176" />
-    <state width="1237" height="155" key="GridCell.Tab.0.left" timestamp="1601119191176">
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1602054466029" />
+    <state x="427" y="238" width="426" height="210" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604967919241">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="155" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601119191176" />
-    <state width="1237" height="155" key="GridCell.Tab.0.right" timestamp="1601119191176">
+    <state x="427" y="238" width="426" height="210" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1604967919241" />
+    <state x="357" y="48" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1601124015699">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="155" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601119191176" />
+    <state x="357" y="48" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1280.680@0.0.1280.680" timestamp="1601124015699" />
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604899815049">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1604899815049" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1607396291833">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607396291833" />
+    <state width="1237" height="145" key="GridCell.Tab.0.bottom" timestamp="1607407182330">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="145" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607407182330" />
+    <state width="1237" height="145" key="GridCell.Tab.0.center" timestamp="1607407182330">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="145" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607407182330" />
+    <state width="1237" height="145" key="GridCell.Tab.0.left" timestamp="1607407182330">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="145" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607407182330" />
+    <state width="1237" height="145" key="GridCell.Tab.0.right" timestamp="1607407182330">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="145" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607407182330" />
+    <state width="1237" height="194" key="GridCell.Tab.1.bottom" timestamp="1602335454365">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602335454365" />
+    <state width="1237" height="194" key="GridCell.Tab.1.center" timestamp="1602335454365">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602335454365" />
+    <state width="1237" height="194" key="GridCell.Tab.1.left" timestamp="1602335454365">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602335454365" />
+    <state width="1237" height="194" key="GridCell.Tab.1.right" timestamp="1602335454365">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602335454365" />
+    <state x="157" y="0" key="SettingsEditor" timestamp="1605575571135">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="157" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605575571135" />
+    <state x="28" y="0" key="new project wizard" timestamp="1602392647874">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1602392647874" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1605574298646">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1605574298646" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1604968132521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1604968132521" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basicstudy/ForDemo3.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/book_example/three/Example3_8.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

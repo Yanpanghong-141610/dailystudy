@@ -13,32 +13,16 @@ import static org.junit.Assert.*;
 public class ClazzDaoTest {
 
     private final ClazzDao clazzDao = DaoFactory.getClazzDaoInstance();
+
     @Test
-//    public void selectByDepartmentId() {
-//        List<Clazz> clazzList = null;
-//        try{
-//            clazzList = clazzDao.selectByDepartmentId(5);
-//        }catch (SQLException throwables){
-//            throwables.printStackTrace();
-//        }
-//        System.out.println(clazzList);
-//    }
     public void selectByDepartmentId() throws Exception{
         List<Clazz> clazzList = clazzDao.selectByDepartmentId(5);
         System.out.println(clazzList);
     }
 
     @Test
-    public  void selectAll() throws Exception{
+    public void selectAll() throws Exception{
         List<Clazz> clazzList = clazzDao.selectAll();
         System.out.println(clazzList);
     }
-
-
-    @Test
-    public void insertClazz() {
-
-    }
-
-
 }

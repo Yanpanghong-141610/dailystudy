@@ -1,0 +1,10 @@
+##jAVA中的异常
+###1、常见的RuntimeException
+-ArrayIndextOutofBoundsException 数组索引
+
+
+
+2、常见的CheckException
+
+
+3、自定义异常的写法

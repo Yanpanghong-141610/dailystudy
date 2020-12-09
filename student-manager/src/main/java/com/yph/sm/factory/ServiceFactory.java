@@ -1,13 +1,7 @@
 package com.yph.sm.factory;
 
-import com.yph.sm.service.AdminService;
-import com.yph.sm.service.ClazzService;
-import com.yph.sm.service.DepartmentService;
-import com.yph.sm.service.StudentService;
-import com.yph.sm.service.impl.AdminServiceImpl;
-import com.yph.sm.service.impl.ClazzServiceImpl;
-import com.yph.sm.service.impl.DepartmentServiceImpl;
-import com.yph.sm.service.impl.StudentServiceImpl;
+import com.yph.sm.service.*;
+import com.yph.sm.service.impl.*;
 
 
 /**
@@ -33,5 +27,8 @@ public class ServiceFactory {
     }
 
     public static StudentService getStudentServiceInstance(){return new StudentServiceImpl() ;}
+
+    public static RewardService getRewardServiceInstance(){return new RewardServiceImpl();
+    }
 }
 

@@ -35,4 +35,5 @@ public interface DepartmentDao {
      */
     int deleteDepartment(Department department,int id)throws SQLException;
 
+     int delete(int depId) throws SQLException;
 }
